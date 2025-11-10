@@ -2,10 +2,10 @@ import Spline from "@splinetool/react-spline";
 
 export default function Hero() {
   return (
-    <section id="home" className="relative min-h-[80vh] w-full overflow-hidden">
+    <section id="home" className="relative min-h-screen w-full overflow-hidden">
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/8s1uVh2sV9nq5Y6a/scene.splinecode"
+          scene="https://prod.spline.design/atN3lqky4IzF-KEP/scene.splinecode"
           style={{ width: "100%", height: "100%" }}
         />
       </div>
